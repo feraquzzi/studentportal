@@ -1,0 +1,582 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    float:left;
+    width:100%;
+    min-height: 100vh;
+    background-color: #f3f6fc;
+    display:flex;
+}
+
+@media only screen and (max-width: 600px){
+    .container{
+        float:left;
+        width:100%;
+        min-height: 100vh;
+        background-color: transparent;
+        display:flex;
+        flex-wrap: wrap;
+    }
+}
+
+.login{
+    float:left;
+    width:40%;
+    height: 100vh;
+    background-color: rgba(143,31,47,0.05);
+}
+
+@media only screen and (max-width: 600px){
+    .login{
+        float:left;
+        width:100%;
+        height: 45vh;
+        background-color: rgba(143,31,47,0.05);
+    }
+}
+
+.loginInterface{
+    float:left;
+    width:80%;
+    margin-left: 10%;
+    margin-top:15%;
+    height: 70%;
+    background-color: transparent;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 600px){
+    .loginInterface{
+        float:left;
+        width:90%;
+        margin-top: 5%;
+        margin-left: 5%;
+        height: 90%;
+        background-color: transparent;
+    }
+}
+
+.logo{
+    float:left;
+    width:30%;
+    height: 25%;
+    margin-left:35%;
+    background-color: grey;
+}
+
+.logo img{
+    width:100%;
+    height: 100%;
+}
+
+@media only screen and (max-width: 600px){
+    .logo{
+        float:left;
+        width: 20%;
+        height: 20%;
+        margin-left:40%;
+        background-color: grey;
+    }
+}
+
+.loginForm{
+    float:left;
+    width:80%;
+    height: 55%;
+    margin-left:10%;
+    background-color: transparent;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 600px){
+    .loginForm{
+        float:left;
+        width:90%;
+        height: 70%;
+        margin-left: 5%;
+        background-color: transparent;
+        display:flex;
+        flex-wrap: wrap;
+        margin-top: 3%;
+    }
+}
+
+.loginInfo{
+    float:left;
+    width:100%;
+    height: 35%;
+    background-color: transparent;
+}
+
+.loginInfo h1{
+    font-family: roboto;
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(100,100,100);
+}
+
+@media only screen and (max-width: 600px){
+    .loginInfo{
+        float:left;
+        width:100%;
+        height: 35%;
+        background-color: transparent;
+    }
+
+    .loginInfo h1{
+        font-family: roboto;
+        text-align: center;
+        font-weight: bolder;
+        font-size: 16px;
+    }
+    
+}
+
+.loginInfo p{
+    font-family: roboto;
+    text-align: center;
+    font-size: 16px;
+    Color:grey;
+}
+
+.spec{
+    padding-top: 15px;
+}
+
+.spec1{
+    padding-top: 5px;
+}
+
+@media only screen and (max-width: 600px){
+    .loginInfo p{
+        font-family: roboto;
+        text-align: center;
+        font-size: 10px;
+        Color:grey;
+    }
+    
+    .spec{
+        padding-top: 10px;
+    }
+    
+    .spec1{
+        padding-top: 0px;
+    }
+    
+}
+
+.checkForm{
+    float:left;
+    width:100%;
+    height: 50%;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 15px lightgrey;
+    margin-top: 8.5%;
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 600px){
+    .checkForm{
+        float:left;
+        width:100%;
+        height: 55%;
+        background-color: whitesmoke;
+        box-shadow: 0px 0px 15px lightgrey;
+        margin-top: 3%;
+    }
+}
+
+.formbox{
+    float:left;
+    width:100%;
+    height: 80%;
+    background-color: transparent;
+    margin-top: 5%;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 600px){
+    .formbox{
+        float:left;
+        width:100%;
+        height: 70%;
+        background-color: transparent;
+        margin-top: 7%;
+        display:flex;
+        flex-wrap: wrap;
+    }
+}
+    
+
+.formbox input{
+    width:90%;
+    height:45px;
+    border-radius: 10px;
+    margin-left: 3%;
+    border: 2px solid lightgrey;
+    outline: none;
+    padding-left:10px;
+}
+
+.formbox input::placeholder{
+    font-style: italic;
+    font-family:roboto;
+    opacity: 0.6;
+    font-family:18px;
+}
+
+.formbox button{
+    width:92%;
+    height:50px;
+    margin-left: 4%;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    background-color: #8f1f2f;
+    color: #ffffff;
+    font-size:18px;
+    font-family: roboto;
+    font-weight: bolder;
+}
+
+@media only screen and (max-width: 600px){
+    .formbox input{
+        width:85%;
+        margin-left: 0;
+        height:30px;
+        border-radius: 5px;
+        margin-left: 4%;
+    }
+    
+    .formbox button{
+        width:90%;
+        height:35px;
+        margin-left: 4%;
+        border-radius: 5px;
+        font-size: 14px;
+        font-weight: bold;
+    }
+}
+
+.userPortal{
+    float:left;
+    width:60%;
+    min-height: 100vh;
+    background-color: transparent;
+}
+
+@media only screen and (max-width: 600px){
+    .userPortal{
+        float:left;
+        width:100%;
+        min-height: 600px;
+        background-color: transparent;
+    }
+}
+
+.profileInfo{
+    float:left;
+    width:100%;
+    height: 30vh;
+    background-color: transparent;
+    background-image: url('gbodobanner.jpg');
+}
+
+.displayInfo{
+    float:left;
+    width:100%;
+    height: 20vh;
+    background-color: #8f1f2f;
+}
+
+.displayInfoImage{
+    float:left;
+    width:200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 100px;
+    box-shadow: 0px 0px 15px rgb(50,50,50);
+}
+
+.displayInfoImage img{
+    width:100%;
+    height:100%;
+    border-radius: 106px;
+    border: 6px solid #8f1f2f;
+}
+
+.displayMessage{
+    float:right;
+    width:250px;
+    height: 100px;
+    margin-top: 50px;
+    margin-right: 40px;
+    background: transparent;
+    font-family: roboto;
+}
+
+.displayMessage h3,p{
+    padding-top:10px;
+    color:white;
+}
+
+
+.result{
+    float:left;
+    width:100%;
+    height: 65vh;
+    margin-top:5vh;
+    background-color: transparent;
+}
+
+@media only screen and (max-width: 600px){
+    .result{
+        float: left;
+        width: 100%;
+        min-height: 700px;
+        margin-top: 0vh;
+        background-color: transparent;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    .profileInfo{
+        float:left;
+        width:100%;
+        height: 20vh;
+        background-image: url('gbodobanner.jpg');
+        background-color: transparent;
+    }
+    
+    .displayInfo{
+        float:left;
+        width:100%;
+        height: 12vh;
+        background-color: #8f1f2f;
+    }
+    
+    .displayInfoImage{
+        float:left;
+        width:120px;
+        height: 120px;
+        margin-top: 15px;
+        margin-left: 25px;
+        border-radius: 100px;
+        box-shadow: 0px 0px 15px rgb(50,50,50);
+        background-color: transparent;
+    }
+
+    .displayInfoImage img{
+        width:100%;
+        height:100%;
+        border-radius: 106px;
+        border: 6px solid #8f1f2f;
+    }
+
+    .displayMessage{
+        float:right;
+        width:200px;
+        height: 100px;
+        margin-top: 15px;
+        margin-right: 25px;
+        background: transparent;
+    }
+
+    .displayMessage p{
+        padding-top:10px;
+        color:whitesmoke;
+        font-size: 13px;
+    }
+    
+}
+
+.allresults{
+    float:left;
+    width:90%;
+    min-height:60vh;
+    margin-left: 5%;
+    background: transparent;
+}
+
+.row1{
+    float:left;
+    width:100%;
+    height:27.5vh;
+    background: transparent;
+    display:flex;
+    justify-content:space-between;
+}
+
+.card1{
+    float:left;
+    width:30%;
+    height:27.5vh;
+    background: transparent;
+    border-radius:10px;
+    box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+}
+
+.card2{
+    float:left;
+    width:30%;
+    height:27.5vh;
+    background: transparent;
+    border-radius:10px;
+    box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+}
+
+
+.card3{
+    float:left;
+    width:30%;
+    height:27.5vh;
+    background: transparent;
+    border-radius:10px;
+    box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+}
+
+.row2{
+    float:left;
+    width:100%;
+    height:27.5vh;
+    margin-top:5vh;
+    background: transparent;
+    display:flex;
+    justify-content:space-between;
+}
+
+@media only screen and (max-width: 600px){
+    .allresults{
+        float:left;
+        width:90%;
+        min-height:700px;
+        margin-left: 5%;
+        margin-top:20px;
+        background: transparent;
+        display:flex;
+        flex-wrap: wrap;
+    }
+    
+    .row1{
+        float:left;
+        width:100%;
+        min-height:300px;
+        background: transparent;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .card1{
+        float:left;
+        width:100%;
+        height:150px;
+        background: transparent;
+        border-radius:10px;
+        box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+    }
+    
+    .card2{
+        float:left;
+        width:100%;
+        height:150px;
+        background: transparent;
+        border-radius:10px;
+        box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+        margin-top: 20px;
+    }
+    
+    
+    .card3{
+        float:left;
+        width:100%;
+        height:150px;
+        background: transparent;
+        margin-top: 20px;
+        border-radius:10px;
+        box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+    }
+    
+    .row2{
+        float:left;
+        width:100%;
+        min-height:300px;
+        margin-top:30vh;
+        background: transparent;
+        display:flex;
+        flex-wrap: wrap;
+        justify-content:space-between;
+    }
+}
+
+.card4{
+    float:left;
+    width:30%;
+    height:27.5vh;
+    background: transparent;
+    border-radius:10px;
+    box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+}
+
+.card5{
+    float:left;
+    width:30%;
+    height:27.5vh;
+    background: transparent;
+    border-radius:10px;
+    box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+}
+
+
+.card6{
+    float:left;
+    width:30%;
+    height:27.5vh;
+    background: transparent;
+    border-radius:10px;
+    box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+}
+
+@media only screen and (max-width: 600px){
+   
+    .card4{
+        float:left;
+        width:100%;
+        height:150px;
+        background: transparent;
+        border-radius:10px;
+        box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+    }
+    
+    .card5{
+        float:left;
+        width:100%;
+        height:150px;
+        background: transparent;
+        border-radius:10px;
+        box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+        margin-top: 20px;
+    }
+    
+    
+    .card6{
+        float:left;
+        width:100%;
+        height:150px;
+        background: transparent;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border-radius:10px;
+        box-shadow: 0px 0px 15px rgba(50,50,50,0.4);
+    }
+    
+}
+
