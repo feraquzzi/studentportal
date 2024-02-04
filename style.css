@@ -439,7 +439,7 @@
     height: 90px;
     margin-left: 30%;
     margin-top: 40px;
-    background:grey;
+    background:transparent;
 }
 
 @media only screen and (max-width: 600px){
@@ -449,7 +449,7 @@
         height: 65px;
         margin-left: 30%;
         margin-top: 20px;
-        background:grey;
+        background:transparent;
     }
     
 }
@@ -513,6 +513,31 @@
     .bi-calculator{
         font-size:35px;
         color:#8f1f2f;
+    }
+}
+
+.titletext{
+    font-size: 22px;
+    font-family: calibri regular;
+    font-weight: bolder;
+    color:rgba(50,50,50,0.8);
+}
+
+.forScores{
+    font-size:60px;
+    font-family: roboto;
+    font-weight:800;
+    color:#8f1f2f;
+    text-align: center;
+}
+
+@media only screen and (max-width: 600px){
+    .forScores{
+        font-size: 50px;
+        font-family: roboto;
+        font-weight:800;
+        color:#8f1f2f;
+        text-align: center;
     }
 }
 
