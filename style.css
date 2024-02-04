@@ -263,6 +263,10 @@
     font-weight: bolder;
 }
 
+.formbox button:focus{
+    transform: scale(0.9, 0.9);
+}
+
 @media only screen and (max-width: 600px){
     .formbox input{
         width:85%;
