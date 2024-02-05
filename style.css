@@ -483,6 +483,13 @@
     transform: scale(1.2, 1.2);
 }
 
+@media only screen and (max-width: 600px){
+    .allcards:hover{
+        transform: scale(1.05, 1.05);
+    }
+}
+
+
 .card1{
     float:left;
     width:30%;
