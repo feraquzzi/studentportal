@@ -6,7 +6,7 @@ function checkName() {
    const studId = Math.ceil(studentValue);
     
     
-    // finding the object whose id is '3'
+    // finding the object 
 
     
    const object = array.find(obj => obj.id === studId);
