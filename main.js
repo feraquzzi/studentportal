@@ -26,7 +26,7 @@ function checkName() {
           document.getElementById('error').innerHTML = 'Incorrect student identification number';
           setTimeout(function(){
                document.getElementById('error').innerHTML = '';
-          }, 1000);
+          }, 3000);
           
           document.getElementById('demo').value = ' ';
    }
