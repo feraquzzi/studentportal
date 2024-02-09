@@ -1,14 +1,15 @@
 
 function checkName() {
+     
     const studentId = document.getElementById('demo');
-  
+
    const studentValue = studentId.value;
-   const studId = Math.ceil(studentValue);
+   
+   //const studId = Math.ceil(studentValue);
+   const studId = studentValue.toLowerCase();
     
     
     // finding the object 
-
-    
    const object = array.find(obj => obj.id === studId);
 
    if (object) {
@@ -21,10 +22,13 @@ function checkName() {
         document.getElementById('finalProject').innerHTML = object.finalProject;
         document.getElementById('totalScore').innerHTML = object.allScores;
    } else {
-        document.getElementById('error').innerHTML = 'This ID is not valid or Your ID is incorrect';
+        document.getElementById('error').innerHTML = 'Incorrect student identification number';
    }
   
-  // printing object on the console
+   // printing object on the console
     console.log(object.name);
+
+   // Clear input field
+    document.getElementById('demo').value = ' ';
 
 }
