@@ -4,7 +4,7 @@ function checkName() {
     const studentId = document.getElementById('demo');
 
    const studentValue = studentId.value;
-   
+
    //const studId = Math.ceil(studentValue);
    const studId = studentValue.toLowerCase();
     
@@ -21,10 +21,17 @@ function checkName() {
         document.getElementById('softSkillProject').innerHTML = object.softSkillProject;
         document.getElementById('finalProject').innerHTML = object.finalProject;
         document.getElementById('totalScore').innerHTML = object.allScores;
+
    } else {
-        document.getElementById('error').innerHTML = 'Incorrect student identification number';
+          document.getElementById('error').innerHTML = 'Incorrect student identification number';
+          setTimeout(function(){
+               document.getElementById('error').innerHTML = '';
+          }, 1000);
+          
+          document.getElementById('demo').value = ' ';
    }
-  
+
+     
    // printing object on the console
     console.log(object.name);
 
@@ -32,3 +39,4 @@ function checkName() {
     document.getElementById('demo').value = ' ';
 
 }
+
