@@ -16,6 +16,88 @@ const array = [
   },
 
   {
+    id: 'mup/c23/105',
+    image: "https://i.postimg.cc/FHvN5v9Z/Vivian_Chukwu.jpg",
+    name: 'Vivian Chukwu',
+    dept: 'Make-up',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+
+  },
+
+  {
+    id: 'mup/c23/109',
+    image: "https://i.postimg.cc/jS5BDVVH/Elizabeth_Agailu.jpg",
+    name: 'Elizabeth Agailu',
+    dept: 'Make-up',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+
+  },
+
+  {
+    id: 'mup/c23/111',
+    image: "https://i.postimg.cc/13GFgr2s/Rukayat_Adefila.jpg",
+    name: 'Rukayat Adefila',
+    dept: 'Make-up',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+
+  },
+
+  {
+    id: 'mup/c23/115',
+    image: "https://i.postimg.cc/hv0qX0Nz/Ngozi_Ifepeh.jpg",
+    name: 'Ngozi Ifepeh',
+    dept: 'Make-up',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+
+  },
+
+  {
+    id: 'mup/c23/117',
+    image: "https://i.postimg.cc/c4FwGG6Y/Elizabeth_Adeyemi.jpg",
+    name: 'Elizabeth Adeyemi',
+    dept: 'Make-up',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
+  {
+    id: 'mup/c23/118',
+    image: "https://i.postimg.cc/6p9G2w5j/Favour_Aniekwe.jpg",
+    name: 'Favour Aniekwe',
+    dept: 'Make-up',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
+  {
     id: 'mup/c23/034',
     image: "https://i.postimg.cc/9F0R4XBX/omolola-fadeyi.jpg",
     name: 'Omolola Fadeyi',
@@ -27,6 +109,20 @@ const array = [
     finalProject: 32,
     allScores: 56
   },
+
+  {
+    id: 'mup/c23/119',
+    image: "https://i.postimg.cc/KjYFt9wM/Chineye_Ibeh.jpg",
+    name: 'Chineye Ibeh',
+    dept: 'Make-up',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
 
   {
     id: 'mup/c23/036',
@@ -332,6 +428,59 @@ const array = [
     finalProject: 32,
     allScores: 56
   },
+
+  {
+    id: 'tai/c23/106',
+    image: "https://i.postimg.cc/Hs72fJzq/taiwo_olatunji.jpg",
+    name: 'Taiwo Olatunji',
+    dept: 'Fashion Design',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
+  {
+    id: 'tai/c23/107',
+    image: "https://i.postimg.cc/25zjsZQT/Arigbabuwo_Oriyomi.jpg",
+    name: 'Arigbabuwo Oriyomi',
+    dept: 'Fashion Design',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
+  {
+    id: 'tai/c23/110',
+    image: "https://i.postimg.cc/qv5GBqdT/Lauretta_Idioh.jpg",
+    name: 'Lauretta Idioh',
+    dept: 'Fashion Design',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
+  {
+    id: 'tai/c23/114',
+    image: "https://i.postimg.cc/6Q9FFwvR/Great_Abiodun_Gbenro.jpg",
+    name: 'Great Abiodun Gbenro',
+    dept: 'Fashion Design',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
 
   {
     id: 'tai/c23/079',
@@ -642,6 +791,32 @@ const array = [
   },
 
   {
+    id: 'had/c23/108',
+    image: "https://i.postimg.cc/GptMMb7t/Amudalat_Amode.jpg",
+    name: 'Amudalat Amode',
+    dept: 'Hairdressing',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
+  {
+    id: 'had/c23/113',
+    image: "https://i.postimg.cc/LsYCP7tG/Rukayat_Olamide.jpg",
+    name: 'Rukayat Olamide',
+    dept: 'Hairdressing',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
+
+  {
     id: 'had/c23/002',
     image: "https://i.postimg.cc/26H9m5Mj/Adejoke-Idowu-hairdressing.jpg",
     name: 'Adejoke Idowu',
@@ -763,6 +938,21 @@ const array = [
     allScores: 56
 
   },
+
+  {
+    id: 'iwd/c23/116',
+    image: "https://i.postimg.cc/bvDwDQm3/Timilehin_Balogun.jpg",
+    name: 'Timilehin Balogun',
+    dept: 'Web Development',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+
+  },
+
 
   {
     id: 'iwd/c23/064',
@@ -898,6 +1088,18 @@ const array = [
     allScores: 56
   },
 
+  {
+    id: 'uix/c23/112',
+    image: "https://i.postimg.cc/yW48y2tx/Promise_Salau.jpg",
+    name: 'Promise Salau',
+    dept: 'UI/UX Design',
+    weeklyAttendance: 2,
+    softSkillAttendance: 2,
+    test: 10,
+    softSkillProject: 12,
+    finalProject: 32,
+    allScores: 56
+  },
 
   {
     id: 'uix/c23/065',
