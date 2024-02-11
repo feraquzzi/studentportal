@@ -1,4 +1,3 @@
-
 function checkName() {
      
     const studentId = document.getElementById('demo');
@@ -7,6 +6,8 @@ function checkName() {
 
    //const studId = Math.ceil(studentValue);
    const studId = studentValue.toLowerCase();
+
+   
     
     
     // finding the object 
@@ -22,13 +23,13 @@ function checkName() {
         document.getElementById('finalProject').innerHTML = object.finalProject;
         document.getElementById('totalScore').innerHTML = object.allScores();
 
-   } else {
-          document.getElementById('error').innerHTML = 'Incorrect student identification number';
-          setTimeout(function(){
-               document.getElementById('error').innerHTML = '';
-          }, 3000);
-          
-          document.getElementById('demo').value = ' ';
+   }else{
+     document.getElementById('error').innerHTML = 'Incorrect student identification number';
+     setTimeout(function(){
+          document.getElementById('error').innerHTML = '';
+     }, 3000);
+     
+     document.getElementById('demo').value = ' ';
    }
 
      
@@ -38,5 +39,15 @@ function checkName() {
    // Clear input field
      document.getElementById('demo').value = ' ';
 
+}
+
+function refreshAll() {
+     document.getElementById('photo').src = 'avatar.png';
+     document.getElementById('weeklyAttendance').innerHTML = ' ';
+     document.getElementById('softSkillAttendance').innerHTML = ' ';
+     document.getElementById('test').innerHTML = ' ';
+     document.getElementById('softSkillProject').innerHTML = ' ';
+     document.getElementById('finalProject').innerHTML = ' ';
+     document.getElementById('totalScore').innerHTML = ' ';
 }
 
