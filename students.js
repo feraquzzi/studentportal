@@ -11,7 +11,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -25,7 +27,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -39,7 +43,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -53,7 +59,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -67,7 +75,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -81,7 +91,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -94,7 +106,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -107,7 +121,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -120,7 +136,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
 
@@ -134,7 +152,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -147,7 +167,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -160,7 +182,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -173,7 +197,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -186,7 +212,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -200,7 +228,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -213,7 +243,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
 
@@ -227,7 +259,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -240,7 +274,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -253,7 +289,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -266,7 +304,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -279,7 +319,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
   
@@ -293,7 +335,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -306,7 +350,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -319,7 +365,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -332,7 +380,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -345,7 +395,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -359,7 +411,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -372,7 +426,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -385,7 +441,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   { 
@@ -398,7 +456,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -412,7 +472,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   ///////////////////////////////////////FASHION DESIGN DEPARTMENT////////////////////////////////////////////////
@@ -426,7 +488,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -439,7 +503,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -452,7 +518,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -465,7 +533,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -478,7 +548,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
 
@@ -492,7 +564,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -506,7 +580,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -519,7 +595,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -533,7 +611,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -546,7 +626,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -559,7 +641,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -572,7 +656,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -586,7 +672,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -599,7 +687,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -612,7 +702,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -626,7 +718,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -639,7 +733,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -652,7 +748,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -666,7 +764,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -679,7 +779,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -692,7 +794,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -705,7 +809,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -718,7 +824,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -731,7 +839,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -744,7 +854,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -757,7 +869,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -770,7 +884,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -787,7 +903,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -800,7 +918,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -813,7 +933,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -826,7 +948,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -839,7 +963,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -852,7 +978,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -865,7 +993,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -879,7 +1009,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
 
@@ -893,7 +1025,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -906,7 +1040,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -919,7 +1055,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
 
@@ -935,7 +1073,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -949,7 +1089,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -964,7 +1106,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -977,7 +1121,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -990,7 +1136,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -1004,7 +1152,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1017,7 +1167,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1030,7 +1182,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1043,7 +1197,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1056,7 +1212,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1069,7 +1227,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
 
@@ -1085,7 +1245,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1098,7 +1260,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1111,7 +1275,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1124,7 +1290,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1137,7 +1305,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1150,7 +1320,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -1164,7 +1336,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1176,7 +1350,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1188,7 +1364,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
   {
@@ -1200,7 +1378,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
 
   },
 
@@ -1213,7 +1393,9 @@ const array = [
     test: 10,
     softSkillProject: 12,
     finalProject: 32,
-    allScores: 56
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
   },
 
 ]

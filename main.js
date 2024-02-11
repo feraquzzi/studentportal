@@ -20,7 +20,7 @@ function checkName() {
         document.getElementById('test').innerHTML = object.test;
         document.getElementById('softSkillProject').innerHTML = object.softSkillProject;
         document.getElementById('finalProject').innerHTML = object.finalProject;
-        document.getElementById('totalScore').innerHTML = object.allScores;
+        document.getElementById('totalScore').innerHTML = object.allScores();
 
    } else {
           document.getElementById('error').innerHTML = 'Incorrect student identification number';
