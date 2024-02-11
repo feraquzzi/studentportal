@@ -6,9 +6,6 @@ function checkName() {
 
    //const studId = Math.ceil(studentValue);
    const studId = studentValue.toLowerCase();
-
-   
-    
     
     // finding the object 
    const object = array.find(obj => obj.id === studId);
