@@ -305,8 +305,8 @@
     
     .functionButton .btn1{
         width:80%;
-        margin-left:-0.25%;
-        height:50px;
+        margin-left: -0.25%;
+        height:45px;
         border-radius: 8px;
         outline: none;
         border: none;
@@ -323,7 +323,7 @@
     
     .functionButton .btn2{
         width:15%;
-        height:50px;
+        height:45px;
         border-radius: 8px;
         background-color: #8f1f2f;
         color: #ffffff;
