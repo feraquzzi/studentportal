@@ -1257,7 +1257,7 @@ const array = [
     dept: 'UI/UX Design',
     weeklyAttendance: 1.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 4,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1272,7 +1272,7 @@ const array = [
     dept: 'UI/UX Design',
     weeklyAttendance: 3.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 6,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1287,7 +1287,7 @@ const array = [
     dept: 'UI/UX Design',
     weeklyAttendance: 4,
     softSkillAttendance: 0,
-    test: 0,
+    test: 6,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1302,7 +1302,7 @@ const array = [
     dept: 'UI/UX Design',
     weeklyAttendance: 2,
     softSkillAttendance: 0,
-    test: 0,
+    test: 3.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1317,7 +1317,7 @@ const array = [
     dept: 'UI/UX Design',
     weeklyAttendance: 3.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 5.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1333,7 +1333,7 @@ const array = [
     dept: 'UI/UX Design',
     weeklyAttendance: 3.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 6,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
