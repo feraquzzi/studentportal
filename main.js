@@ -31,7 +31,7 @@ function checkName() {
 
      
    // printing object on the console
-    console.log(object.name);
+    console.log(object.test);
 
    // Clear input field
      document.getElementById('demo').value = ' ';
