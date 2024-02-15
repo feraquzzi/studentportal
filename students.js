@@ -909,6 +909,21 @@ const array = [
   },
 
   {
+    id: 'had/c23/121',
+    image: "https://i.postimg.cc/nVQ0PzZ0/feyisara-adeniji.jpg",
+    name: 'Simbiat Olatunde',
+    dept: 'Hairdressing',
+    weeklyAttendance: 2.25,
+    softSkillAttendance: 0,
+    test: 0,
+    softSkillProject: 0,
+    finalProject: 0,
+    allScores: function(){
+      return this.weeklyAttendance + this.softSkillAttendance + this.test + this.softSkillProject + this.finalProject
+    }
+  },
+
+  {
     id: 'had/c23/108',
     image: "https://i.postimg.cc/GptMMb7t/Amudalat_Amode.jpg",
     name: 'Amudalat Amode',
