@@ -606,7 +606,7 @@ const array = [
     image: "https://i.postimg.cc/907zMcCJ/abisoye_majule.jpg",
     name: 'Abisoye Majule',
     dept: 'Fashion Designing',
-    weeklyAttendance: 3,
+    weeklyAttendance: 3.5,
     softSkillAttendance: 0,
     test: 0,
     softSkillProject: 0,
