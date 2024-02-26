@@ -910,7 +910,7 @@ const array = [
 
   {
     id: 'had/c23/121',
-    image: "https://i.postimg.cc/nVQ0PzZ0/feyisara-adeniji.jpg",
+    image: "https://i.postimg.cc/d0yrdg1k/simbiat_olatunde.jpg",
     name: 'Simbiat Olatunde',
     dept: 'Hairdressing',
     weeklyAttendance: 4.25,
