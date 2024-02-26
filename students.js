@@ -485,7 +485,7 @@ const array = [
     dept: 'Fashion Design',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 16,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -500,7 +500,7 @@ const array = [
     dept: 'Fashion Design',
     weeklyAttendance: 4.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 14,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -515,7 +515,7 @@ const array = [
     dept: 'Fashion Design',
     weeklyAttendance: 4.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -530,7 +530,7 @@ const array = [
     dept: 'Fashion Design',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 9,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -545,7 +545,7 @@ const array = [
     dept: 'Fashion Design',
     weeklyAttendance: 3.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -561,7 +561,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 9,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -577,7 +577,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -592,7 +592,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -608,7 +608,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 10,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -623,7 +623,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -638,7 +638,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -653,7 +653,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -669,7 +669,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 7,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -684,7 +684,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 4.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 9.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -699,7 +699,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -715,7 +715,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -730,7 +730,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 3.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 7,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -745,7 +745,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 14,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -761,7 +761,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 16,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -776,7 +776,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 10.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -791,7 +791,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -806,7 +806,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 10,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -821,7 +821,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 16,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -836,7 +836,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -851,7 +851,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 6,
     softSkillAttendance: 0,
-    test: 0,
+    test: 6,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -866,7 +866,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -881,7 +881,7 @@ const array = [
     dept: 'Fashion Designing',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 8.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
