@@ -1,4 +1,4 @@
-// array of objects to be queried
+// array of students to be queried
 const array = [
   {
     //MAKE-UP DEPARTMENT
@@ -8,7 +8,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 9.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -24,7 +24,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 4.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -56,7 +56,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 1.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 7.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -72,7 +72,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 4.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -103,7 +103,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 2.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 6,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -118,7 +118,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 14.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -133,7 +133,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 3.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 6,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -149,7 +149,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 8.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -179,7 +179,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 9.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -194,7 +194,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -209,7 +209,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 10.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -225,7 +225,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 4.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 14.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -240,7 +240,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 9.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -256,7 +256,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -271,7 +271,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -286,7 +286,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 4.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -316,7 +316,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 9.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -332,7 +332,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 4.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -362,7 +362,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.5,
     softSkillAttendance: 0,
-    test: 0,
+    test: 6,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -377,7 +377,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 15.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -392,7 +392,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 2.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 17,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -408,7 +408,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 4.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 12.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -423,7 +423,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 0,
+    test: 10.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -453,7 +453,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 2.75,
     softSkillAttendance: 0,
-    test: 0,
+    test: 11.5,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -469,7 +469,7 @@ const array = [
     dept: 'Make-up',
     weeklyAttendance: 4,
     softSkillAttendance: 0,
-    test: 0,
+    test: 8,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
