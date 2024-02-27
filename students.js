@@ -530,7 +530,7 @@ const array = [
     dept: 'Fashion Design',
     weeklyAttendance: 5.25,
     softSkillAttendance: 0,
-    test: 9,
+    test: 15,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
