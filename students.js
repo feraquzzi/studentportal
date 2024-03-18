@@ -1085,7 +1085,7 @@ const array = [
     dept: 'Web Development',
     weeklyAttendance: 6,
     softSkillAttendance: 10,
-    test: 11,
+    test: 16,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1118,7 +1118,7 @@ const array = [
     dept: 'Web Development',
     weeklyAttendance: 6,
     softSkillAttendance: 10,
-    test: 12,
+    test: 19,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1148,7 +1148,7 @@ const array = [
     dept: 'Web Development',
     weeklyAttendance: 5.75,
     softSkillAttendance: 10,
-    test: 10,
+    test: 14,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1163,8 +1163,8 @@ const array = [
     name: 'Aminah Sosanya',
     dept: 'Web Development',
     weeklyAttendance: 6,
-    softSkillAttendance: 0,
-    test: 9,
+    softSkillAttendance: 5,
+    test: 12,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1179,7 +1179,7 @@ const array = [
     dept: 'Web Development',
     weeklyAttendance: 5.25,
     softSkillAttendance: 10,
-    test: 11.6,
+    test: 16.6,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1194,7 +1194,7 @@ const array = [
     dept: 'Web Development',
     weeklyAttendance: 5.75,
     softSkillAttendance: 10,
-    test: 14.2,
+    test: 19.7,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
@@ -1209,7 +1209,7 @@ const array = [
     dept: 'Web Development',
     weeklyAttendance: 4.75,
     softSkillAttendance: 10,
-    test: 11.4,
+    test: 17.4,
     softSkillProject: 0,
     finalProject: 0,
     allScores: function(){
