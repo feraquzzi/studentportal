@@ -484,7 +484,7 @@ const array = [
     name: 'Adenike Bolaji',
     dept: 'Fashion Design',
     weeklyAttendance: 9,
-    softSkillAttendance: 0,
+    softSkillAttendance: 9,
     test: 16,
     softSkillProject: 0,
     finalProject: 0,
