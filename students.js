@@ -865,7 +865,7 @@ const array = [
     name: 'Bukola Adebayo',
     dept: 'Fashion Designing',
     weeklyAttendance: 7.75,
-    softSkillAttendance: 0,
+    softSkillAttendance: 10,
     test: 12,
     softSkillProject: 0,
     finalProject: 0,
