@@ -54,7 +54,7 @@ const array = [
     image: "https://i.postimg.cc/13GFgr2s/Rukayat_Adefila.jpg",
     name: 'Rukayat Adefila',
     dept: 'Make-up',
-    weeklyAttendance: 4.75,
+    weeklyAttendance: 6.75,
     softSkillAttendance: 10,
     test: 7.5,
     softSkillProject: 0,
